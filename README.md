@@ -125,7 +125,7 @@
 <p align="center">
   <picture>
     <!-- Dark theme -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BlankedWave/BlankedWave/blob/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AkiruSama/AkiruSama/blob/output/github-snake-dark.svg">
     <!-- Light theme -->
     <img alt="Contribution Snake" src="https://github.com/BlankedWave/BlankedWave/blob/output/github-snake.svg">
   </picture>
