@@ -3,7 +3,7 @@
 </h1>
 
 <a href="https://blankedwave.github.io/">
-  <img alt="Header" src="https://raw.githubusercontent.com/BlankedWave/BlankedWave/refs/heads/main/Readme%20Assets/Banner.jpg" />
+  <img alt="Header" src="https://raw.githubusercontent.com/AkiruSama/AkiruSama/refs/heads/main/Readme%20Assets/Banner.jpg" />
 </a>
 <br><br>
 
